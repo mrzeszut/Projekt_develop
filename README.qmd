@@ -1,0 +1,19 @@
+---
+title: "KURS DEVELOP"
+author: "Mateusz Rzeszutek"
+format: gfm
+---
+
+## Intro 
+
+
+```{r}
+2+2
+```
+
+## Drugi kod
+
+
+```{r}
+4+4
+```

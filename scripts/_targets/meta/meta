@@ -1,0 +1,4 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+read|stem|a5c76f74a5880e15|d9228f5eb1117956|2c530c1562a7fbd1|1387079160||t20287.3657684732s|s496b|496|rds|local|vector|||0.12||
+raw_csv|stem||0184ce409bd116fc|2c530c1562a7fbd1|100298551|F:/Qnap/R/Kurs_Fach/develop/Projekt_001/data/airtravel.csv|t20287.3657691422s||0|file|local|vector|||||_paths_ missing files: F:/Qnap/R/Kurs_Fach/develop/Projekt_001/data/airtravel.csv
+df|stem||c6086760cba63127|2c530c1562a7fbd1|1719518045||t20287.3663851379s||0|rds|local|vector|||0.1||nie znaleziono obiektu 'raw_csv'
